@@ -23,7 +23,7 @@ Then create the Container with:
       --env 'GAMENAME=Visit KeinNerd.net' \
       --env 'DISCORDTOKEN=YOURDISCORDBOTTOKEN' \
       --restart unless-stopped \
-    keinnerdnet/makethebotonline:latest
+    keinnerd/makethebotonline:latest
 
 ## 🔧 Envs
 
